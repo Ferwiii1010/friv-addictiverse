@@ -1,0 +1,2 @@
+var feedbackTXT = "";
+stop();

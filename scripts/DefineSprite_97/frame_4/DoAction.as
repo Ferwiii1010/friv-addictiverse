@@ -1,0 +1,2 @@
+counter++;
+gotoAndPlay(3);
