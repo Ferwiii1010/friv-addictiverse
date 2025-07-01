@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_4" data-name="Capa 4" xmlns="http://www.w3.org/2000/svg" width="1919.25" height="1079.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1919.25 1079.25">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Degradado_sin_nombre_632-3);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: aqua;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-3 {
+        stroke: url(#Degradado_sin_nombre_632);
+      }
+
+      .cls-12 {
+        fill: url(#Degradado_sin_nombre_5);
+      }
+
+      .cls-13 {
+        fill: #17005d;
+        opacity: .47;
+        stroke: #14d7ff;
+      }
+
+      .cls-4 {
+        stroke: url(#Degradado_sin_nombre_632-4);
+      }
+
+      .cls-5 {
+        stroke: url(#Degradado_sin_nombre_618-5);
+      }
+
+      .cls-14 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-6 {
+        stroke: url(#Degradado_sin_nombre_618-4);
+      }
+
+      .cls-7 {
+        stroke: url(#Degradado_sin_nombre_618);
+      }
+
+      .cls-15 {
+        fill: url(#Degradado_sin_nombre_5-2);
+        stroke: #1400b4;
+      }
+
+      .cls-16 {
+        filter: url(#outer-glow-6);
+      }
+
+      .cls-17 {
+        filter: url(#outer-glow-5);
+      }
+
+      .cls-18 {
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-8 {
+        stroke: url(#Degradado_sin_nombre_618-6);
+      }
+
+      .cls-9 {
+        stroke: url(#Degradado_sin_nombre_632-2);
+      }
+
+      .cls-10 {
+        stroke: url(#Degradado_sin_nombre_618-3);
+      }
+
+      .cls-11 {
+        stroke: url(#Degradado_sin_nombre_618-2);
+      }
+
+      .cls-19 {
+        filter: url(#outer-glow-3);
+      }
+
+      .cls-20 {
+        filter: url(#outer-glow-4);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="-1531.61" y1="2036.05" x2="-1531.61" y2="2034.57" gradientTransform="translate(321900 611345) scale(210 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#132288"/>
+      <stop offset="1" stop-color="#06144a"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_5-2" data-name="Degradado sin nombre 5" y1="2035.95" y2="2034.02" gradientTransform="translate(321900 529460) scale(210 -260)" xlink:href="#Degradado_sin_nombre_5"/>
+    <filter id="outer-glow-1" x="181" y="318" width="169" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="4"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_618" data-name="Degradado sin nombre 618" x1="193.23" y1="351.67" x2="235.62" y2="351.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="aqua"/>
+      <stop offset=".1" stop-color="aqua"/>
+      <stop offset=".73" stop-color="aqua"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_618-2" data-name="Degradado sin nombre 618" x1="244.26" x2="286.65" xlink:href="#Degradado_sin_nombre_618"/>
+    <linearGradient id="Degradado_sin_nombre_618-3" data-name="Degradado sin nombre 618" x1="295.28" x2="337.68" xlink:href="#Degradado_sin_nombre_618"/>
+    <linearGradient id="Degradado_sin_nombre_618-4" data-name="Degradado sin nombre 618" y1="402.7" y2="402.7" xlink:href="#Degradado_sin_nombre_618"/>
+    <linearGradient id="Degradado_sin_nombre_618-5" data-name="Degradado sin nombre 618" x1="244.26" y1="402.7" x2="286.65" y2="402.7" xlink:href="#Degradado_sin_nombre_618"/>
+    <linearGradient id="Degradado_sin_nombre_618-6" data-name="Degradado sin nombre 618" x1="295.28" y1="402.7" x2="337.68" y2="402.7" xlink:href="#Degradado_sin_nombre_618"/>
+    <filter id="outer-glow-2" x="213" y="666" width="99" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-3" x="139" y="746" width="74" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-4" x="308" y="749" width="74" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-4" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-5" x="213" y="851" width="99" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-5" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-6" x="187" y="462" width="157" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-6" stdDeviation="4"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Degradado_sin_nombre_632" data-name="Degradado sin nombre 632" x1="276.36" y1="512.75" x2="254.16" y2="474.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="aqua"/>
+      <stop offset="1" stop-color="aqua"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_632-2" data-name="Degradado sin nombre 632" x1="229.63" y1="559.49" x2="207.43" y2="521.03" xlink:href="#Degradado_sin_nombre_632"/>
+    <linearGradient id="Degradado_sin_nombre_632-3" data-name="Degradado sin nombre 632" x1="276.36" y1="559.49" y2="521.03" xlink:href="#Degradado_sin_nombre_632"/>
+    <linearGradient id="Degradado_sin_nombre_632-4" data-name="Degradado sin nombre 632" x1="323.1" y1="559.49" x2="300.9" y2="521.03" xlink:href="#Degradado_sin_nombre_632"/>
+  </defs>
+  <rect id="bg_bottom" data-name="bg bottom" class="cls-12" x="140.47" y="531.42" width="241" height="441.83" rx="44.26" ry="44.26"/>
+  <rect id="bg_top" data-name="bg top" class="cls-15" x="140.47" y="113.57" width="241" height="501.03" rx="46.94" ry="46.94"/>
+  <g id="grid_4x2" data-name="grid 4x2" class="cls-18">
+    <rect class="cls-7" x="194.23" y="331.47" width="40.4" height="40.4" rx="13.53" ry="13.53"/>
+    <rect class="cls-11" x="245.26" y="331.47" width="40.4" height="40.4" rx="13.53" ry="13.53"/>
+    <rect class="cls-10" x="296.28" y="331.47" width="40.4" height="40.4" rx="13.53" ry="13.53"/>
+    <rect class="cls-6" x="194.23" y="382.5" width="40.4" height="40.4" rx="13.53" ry="13.53"/>
+    <rect class="cls-5" x="245.26" y="382.5" width="40.4" height="40.4" rx="13.53" ry="13.53"/>
+    <rect class="cls-8" x="296.28" y="382.5" width="40.4" height="40.4" rx="13.53" ry="13.53"/>
+  </g>
+  <g id="arrow_up" data-name="arrow up" class="cls-14">
+    <path class="cls-2" d="M237.59,715.09l25-25,25,25"/>
+  </g>
+  <g id="arrow_left" data-name="arrow left" class="cls-19">
+    <path class="cls-2" d="M188.69,820.27l-25-25,25-25"/>
+  </g>
+  <g id="arrow_right" data-name="arrow right" class="cls-20">
+    <path class="cls-2" d="M332.37,823.94l25-25-25-25"/>
+  </g>
+  <g id="arrow_down" data-name="arrow down" class="cls-17">
+    <path class="cls-2" d="M237.58,875.44l25,25,25-25"/>
+  </g>
+  <g id="grid_4x2-2" data-name="grid 4x2" class="cls-16">
+    <rect class="cls-3" x="246.76" y="475.03" width="37" height="37" rx="11.12" ry="11.12"/>
+    <rect class="cls-9" x="200.03" y="521.76" width="37" height="37" rx="11.12" ry="11.12"/>
+    <rect class="cls-1" x="246.76" y="521.76" width="37" height="37" rx="11.12" ry="11.12"/>
+    <rect class="cls-4" x="293.5" y="521.76" width="37" height="37" rx="11.12" ry="11.12"/>
+  </g>
+  <g id="grid_4x2-3" data-name="grid 4x2">
+    <rect class="cls-13" x="425.47" y="933.77" width="1365.7" height="82.79" rx="41.39" ry="41.39"/>
+  </g>
+</svg>
