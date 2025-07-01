@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" width="1919.25" height="1079.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1919.25 1079.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_3);
+        stroke: #1cc8ff;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="-1538.26" y1="2038.44" x2="-1536.47" y2="2036.64" gradientTransform="translate(1453780 1231220) scale(945 -604)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081c64"/>
+      <stop offset="1" stop-color="#4814b3"/>
+    </linearGradient>
+  </defs>
+  <g id="container">
+    <rect class="cls-2" x="94.56" y="26.96" width="1748.8" height="1038.24" rx="38.27" ry="38.27"/>
+  </g>
+  <g id="rays">
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1343.79" y2="596.58"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1296.83" y2="709.94"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1222.14" y2="807.28"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1124.8" y2="881.97"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1011.44" y2="928.93"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="768.16" y2="928.93"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="654.8" y2="881.97"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="557.46" y2="807.28"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="482.77" y2="709.94"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="435.81" y2="596.58"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="435.81" y2="353.3"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="482.77" y2="239.94"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="557.46" y2="142.6"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="654.8" y2="67.91"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="768.16" y2="20.95"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1011.44" y2="20.95"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1124.8" y2="67.91"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1222.14" y2="142.6"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1296.83" y2="239.94"/>
+    <line class="cls-1" x1="889.8" y1="474.94" x2="1343.79" y2="353.3"/>
+  </g>
+</svg>
