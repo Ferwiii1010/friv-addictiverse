@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1919.25" height="1079.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1919.25 1079.25">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: FranklinGothic-Heavy, 'Franklin Gothic Heavy';
+        font-size: 72px;
+        font-weight: 800;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+    </style>
+    <filter id="outer-glow-1" x="848" y="-3" width="695" height="178" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="15"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Capa_31" data-name="Capa 31" class="cls-1">
+    <text class="cls-2" transform="translate(893.83 103.33)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan x="30.48" y="0">win Shot</tspan></text>
+  </g>
+</svg>
