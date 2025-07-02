@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_4" data-name="Capa 4" xmlns="http://www.w3.org/2000/svg" width="1919.25" height="1079.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1919.25 1079.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_5);
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_5-2);
+        stroke: #1400b4;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="-1531.61" y1="2036.05" x2="-1531.61" y2="2034.57" gradientTransform="translate(321900 611345) scale(210 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#132288"/>
+      <stop offset="1" stop-color="#06144a"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_5-2" data-name="Degradado sin nombre 5" y1="2035.95" y2="2034.02" gradientTransform="translate(321900 529460) scale(210 -260)" xlink:href="#Degradado_sin_nombre_5"/>
+  </defs>
+  <rect id="bg_bottom" data-name="bg bottom" class="cls-1" x="140.47" y="531.42" width="241" height="441.83" rx="44.26" ry="44.26"/>
+  <rect id="bg_top" data-name="bg top" class="cls-2" x="140.47" y="113.57" width="241" height="501.03" rx="46.94" ry="46.94"/>
+</svg>
