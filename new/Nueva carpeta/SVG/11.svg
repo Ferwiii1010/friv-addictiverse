@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_15" data-name="Capa 15" xmlns="http://www.w3.org/2000/svg" width="1919.25" height="1079.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1919.25 1079.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: aqua;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-3 {
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-3);
+      }
+
+      .cls-5 {
+        filter: url(#outer-glow-4);
+      }
+    </style>
+    <filter id="outer-glow-1" x="214" y="665" width="99" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-2" x="140" y="745" width="74" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-3" x="308" y="749" width="74" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-4" x="214" y="851" width="99" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-4" stdDeviation="7"/>
+      <feFlood flood-color="#40f" flood-opacity="1"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="arrow_up" data-name="arrow up" class="cls-3">
+    <path class="cls-1" d="M238.04,714.77l25-25,25,25"/>
+  </g>
+  <g id="arrow_left" data-name="arrow left" class="cls-2">
+    <path class="cls-1" d="M189.13,819.95l-25-25,25-25"/>
+  </g>
+  <g id="arrow_right" data-name="arrow right" class="cls-4">
+    <path class="cls-1" d="M332.81,823.62l25-25-25-25"/>
+  </g>
+  <g id="arrow_down" data-name="arrow down" class="cls-5">
+    <path class="cls-1" d="M238.03,875.12l25,25,25-25"/>
+  </g>
+</svg>
